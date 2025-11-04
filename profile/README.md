@@ -2,3 +2,7 @@
   <img src="/ecast-gif-nolink.gif" alt="E-Cast Banner" width="600">
 
   </div>
+<div align="center">
+   # **[E-Cast - Streamiong Hosting](https://ecast.site)**
+
+  </div>
