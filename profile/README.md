@@ -3,6 +3,7 @@
 
   </div>
 <div align="center">
-   # **[E-Cast - Streamiong Hosting](https://ecast.site)**
 
-  </div>
+# **[E-Cast - Streaming Hosting](https://ecast.site)**
+
+</div>
