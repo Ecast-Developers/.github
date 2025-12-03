@@ -3,7 +3,8 @@
 <img src="/ecast_og.gif" alt="E‑Cast Banner" width="680" />
 
 <h1>E‑Cast — Streaming Hosting</h1>
-<p>Streaming hosting e soluções multiplataforma para marcas e criadores.</p>
+<p>Soluções completas em streaming de áudio e vídeo para TVs, podcasts, eventos e transmissões ao vivo.
+Oferecemos tecnologia de ponta, com máxima qualidade e estabilidade, para que você entregue uma experiência profissional e sem interrupções.</p>
 
 <!-- Ferramentas e Frameworks (somente ícones e nomes) -->
 <p>
