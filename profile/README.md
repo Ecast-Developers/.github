@@ -13,30 +13,50 @@ Oferecemos tecnologia de ponta, com máxima qualidade e estabilidade, para que v
   <img src="https://img.shields.io/badge/Next.js-FF3333?logo=next.js&labelColor=000000" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vite-FF3333?logo=vite&labelColor=000000" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-FF3333?logo=tailwindcss&labelColor=000000" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Motion.dev-FF3333?labelColor=000000" alt="Motion.dev" />
-  <img src="https://img.shields.io/badge/Radix%20UI-FF3333?labelColor=000000" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/A11y-FF3333?labelColor=000000" alt="A11y" />
-  <img src="https://img.shields.io/badge/Prettier-FF3333?logo=prettier&labelColor=000000" alt="Prettier" />
-  <img src="https://img.shields.io/badge/WordPress-FF3333?logo=wordpress&labelColor=000000" alt="WordPress" />
 </p>
 
 </div>
 
 ---
 
-**Quem somos**
-- Especialistas em infraestrutura e experiências de streaming com foco em performance e estética.
-- Projetamos e entregamos soluções sob medida para web, iOS, Android, TVs, Roku e WebView.
-- Integrações com WordPress e desenvolvimento de aplicativos e front‑ends modernos.
+**Sobre a E-Cast**
+- Serviço mais estável para seu canal <br>
+A E-Cast é nativa da nuvem, de verdade. Ou seja, foi construída inteiramente na nuvem, sem orquestração de soluções antigas ou de terceiros , sem custos ocultos, sem taxas ocultas, com um custo fixo e totalmente previsível por mês..
+- 24 Horas / 7 dias por semana <br>
+Outra parte muito importante do nosso serviço é um NOC operado 24 horas por dia, 7 dias por semana, que monitora os canais e atua como um centro de suporte para garantir que tudo esteja funcionando sem problemas.
 
-**O que entregamos**
-- Hospedagem e distribuição de streaming confiável.
-- Branding e interfaces de alto impacto visual.
-- Produtos acessíveis, responsivos e otimizados.
+**Tecnologia e Compatibilidade**
+
+- Maximize Seu Potencial <br>
+Com suas características de automação de canais de televisão e rádio ao vivo, E-Cast oferece uma plataforma intuitiva e fácil de usar.
+
+- Serviços Premium <br>
+Se você está procurando uma maneira de transmitir seu conteúdo de televisão online de maneira profissional e sem complicações, então E-Cast é a escolha certa para você!
+
+- Suporte Online 24/7 <br>
+E-Cast é a única que oferece suporte online a qualquer hora ou dia da semana.
+
+- Armazenamento em Nuvem <br>
+Envie seus arquivos de midia para nossos servidores em nuvem, com segurança e rapidez!
+
+- Atualizações Constantes <br>
+Visando a segurança da informação para nossos clientes, a E-Cast está sempre atualizada!
+
+- Monitoramento dos Serviços <br>
+Para sua comodidade monitoramos seu sinal 24/7 e lhe avisamos via mensagem no seu celular caso algo aconteça.
 
 **Contato**
-- Organização: https://github.com/Ecast-Developers
-- Para parcerias e projetos, utilize os canais oficiais.
+- Website:<br> 
+https://ecast.com.br
 
-<sub>Para uso como perfil da organização, copie este arquivo para `.github/profile/README.md`.</sub>
+- Suporte: <br>
+suporte@ecast.site
+
+- Comercial: <br>
+comercial@ecast.site
+
+- Jurídico: <br>
+juridico@ecast.site
+
+<sub>E-Cast - Streaming Hosting | Todos direitos Reservados.</sub>
 
