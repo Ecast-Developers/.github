@@ -71,20 +71,20 @@
 
 ## <img src="https://img.shields.io/badge/_-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjMzMzMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHg9IjIiIHk9IjQiIHJ4PSIyIi8+PHBhdGggZD0ibTIyIDctOC45NyA1LjdhMSAxIDAgMCAxLTEuMDYgMGwtOS01LjciLz48L3N2Zz4=&logoColor=FF3333" height="20"> Contato & Suporte
 
-<div align="center">
-
+<div align="left">
+  
   <a href="https://ecast.com.br" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-ECAST.COM.BR-000000?style=for-the-badge&logo=vercel&logoColor=FF3333" alt="Website" />
   </a>
-
   <br />
-
   <a href="mailto:suporte@ecast.site">
     <img src="https://img.shields.io/badge/SUPORTE-suporte@ecast.site-000000?style=for-the-badge&logo=gmail&logoColor=FF3333" alt="Suporte" />
   </a>
+  <br />
   <a href="mailto:comercial@ecast.site">
     <img src="https://img.shields.io/badge/COMERCIAL-comercial@ecast.site-000000?style=for-the-badge&logo=gmail&logoColor=FF3333" alt="Comercial" />
   </a>
+  <br />
   <a href="mailto:juridico@ecast.site">
     <img src="https://img.shields.io/badge/JURÍDICO-juridico@ecast.site-000000?style=for-the-badge&logo=gmail&logoColor=FF3333" alt="Jurídico" />
   </a>
